@@ -6,9 +6,10 @@ Welcome to your final mini-project of this bootcamp. We hope you will enjoy it.
 
 ### Description
 
-We will combine our skills from the previous modules to identify questions with the same meaning. We will use the dataset from Quora that have been labeled by human experts. Human labeling is a `noisy` process, and labels should be taken to be `informed` but not 100% accurate. Furthermore, this labeling is also very expensive (humans would need to spend a lot of time to label all question) therefore it's much more efficient to identify duplicated questions by machine learning (if model is reasonably accurate :).
+We will combine the skills we developed in the previous modules to identify duplicate questions in a dataset provided by Quora. This dataset  was labeled by human experts which is an expensive process. The model you will build will need to automatically identify and label duplicate questions.
 
-We are going to build this classifier during the project.
+We are going to need to build a classifier model to achieve this result..
+
 
 ### Data
 
